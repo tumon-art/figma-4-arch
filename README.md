@@ -1,7 +1,7 @@
 # figma-4-arch
 
 
-## Dowdload The latest Realese file and run
+## Download The latest release file and run
 
 ```bash
 sudo pacman -U figma-linux-0.10.0-1-x86_64.pkg.tar.zst 
