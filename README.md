@@ -8,7 +8,7 @@ sudo pacman -U figma-linux-0.10.0-1-x86_64.pkg.tar.zst
 ```
 
 
-## Warning
+## Warning - Don't install it, If are new to Arch.
 This package is not official package. 
 I built it from a .deb file found in https://github.com/Figma-Linux/figma-linux
 
